@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Video-Library/static/css/main.82bd6d0e.css",
+    "main.js": "/Video-Library/static/js/main.fee6e37b.js",
+    "static/js/453.83f1cc08.chunk.js": "/Video-Library/static/js/453.83f1cc08.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Video-Library/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Video-Library/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Video-Library/index.html",
+    "main.82bd6d0e.css.map": "/Video-Library/static/css/main.82bd6d0e.css.map",
+    "main.fee6e37b.js.map": "/Video-Library/static/js/main.fee6e37b.js.map",
+    "453.83f1cc08.chunk.js.map": "/Video-Library/static/js/453.83f1cc08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bd6d0e.css",
+    "static/js/main.fee6e37b.js"
+  ]
+}
